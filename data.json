@@ -1,5 +1,5 @@
 {
-"results: [
+"results": [
 {
 "id": "1",
 "name": "Oban Little Bay",
@@ -19,7 +19,7 @@
 "id": "4",
 "name": "Ardbeg",
 "description": "peated",
-"cask": "french oak
+"cask": "french oak"
 "id": "5",
 "name": "Laphroig",
 "description": "smokey",
