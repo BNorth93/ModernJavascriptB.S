@@ -6,20 +6,25 @@
 "description": "light",
 "cask": "small cask"
 },
+  {
 "id": "2",
 "name": "Glenlivit",
 "description": "zesty",
 "cask": "american oak"
 },
+  {
 "id": "3",
 "name": "Balvenie",
 "description": "smooth",
 "cask": "doublewood"
 },
+  {
 "id": "4",
 "name": "Ardbeg",
 "description": "peated",
 "cask": "french oak"
+  },
+  {
 "id": "5",
 "name": "Laphroig",
 "description": "smokey",
