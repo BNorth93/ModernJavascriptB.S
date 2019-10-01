@@ -5,7 +5,7 @@
 <title> The Whisky Vault</title>
 </head>
 <body>
-  <main>
+  <main id="primaryView">
 <p> This is a new website to leave personal reviews/opinions on a variety of whiskies. </p>
   <ul>
   <li> Balvenie Doublewood</li>
@@ -13,8 +13,12 @@
   <li> Oban Little Bay</li>
   </ul>
   </main>
-  <script type="text/javascript">
-    console.log('This is JavaScript');
+  <script>
+    const things = ['Balvenie Doublewood','Glenlivit Founder\'s Reserve', 'Oban Little Bay'];
+    const mainView = document.querySelector('#primaryView);
+       mainView.innerHTML = `
+    <h2>Text</h2>
+    `;
   </script>
 </body>
 </html>
