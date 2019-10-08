@@ -2,25 +2,25 @@
 "results": [
 {
 "id": "1",
-"name": "Character 1",
+"name": "Saffron",
 "description": "light",
 "cask": "small cask"
 },
   {
 "id": "2",
-"name": "Character 2",
+"name": "Duty",
 "description": "zesty",
 "cask": "american oak"
 },
   {
 "id": "3",
-"name": "Character 3",
+"name": "Minty",
 "description": "smooth",
 "cask": "doublewood"
 },
   {
 "id": "4",
-"name": "Ardbeg",
+"name": "Jaren",
 "description": "peated",
 "cask": "french oak"
   },
