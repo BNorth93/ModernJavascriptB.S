@@ -3,32 +3,32 @@
 {
 "id": "1",
 "name": "Saffron",
-"description": "light",
-"cask": "small cask"
+"description": "Paladin",
+"subclass": "Oath of Ancients"
 },
   {
 "id": "2",
 "name": "Duty",
-"description": "zesty",
-"cask": "american oak"
+"description": "Warlock",
+"subclass": "Celestial Patron"
 },
   {
 "id": "3",
 "name": "Minty",
-"description": "smooth",
-"cask": "doublewood"
+"description": "Rogue",
+"subclass": "Thief"
 },
   {
 "id": "4",
 "name": "Jaren",
-"description": "peated",
-"cask": "french oak"
+"description": "Fighter",
+"subclass": "Eldritch Knight"
   },
   {
 "id": "5",
 "name": "The DM",
-"description": "smoky",
-"cask": "bourbon barrel"
+"description": "The One Above All",
+"subclass": "The World Builder"
 }
 ]
 }
