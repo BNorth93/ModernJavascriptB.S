@@ -2,7 +2,7 @@ import { render } from './renderer.js';
 import * as data from './data.json';
 
 function getThingTemplate(thing){
-  return `<li>${thing.name} - ${thing.description}</li>`;
+  return `<li>${thing.name} - ${thing.description} - ${thing.subclass}</li>`;
 }
 
 console.log(data.results);
