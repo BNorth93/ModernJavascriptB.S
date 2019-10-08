@@ -1,0 +1,23 @@
+{
+  "name": "whisky-vault",
+  "version": "1.0.0",
+  "description": "Welcome to GitHub—where millions of developers work together on software. Ready to get started? Let’s learn how this all works by building and publishing your first GitHub Pages website!",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BNorth93/ModernJavascriptB.S.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BNorth93/ModernJavascriptB.S/issues"
+  },
+  "homepage": "https://github.com/BNorth93/ModernJavascriptB.S#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.3"
+  }
+}
