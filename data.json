@@ -29,6 +29,12 @@
 "name": "ROBOCOP",
 "description": "The One Above All",
 "subclass": "The World DEFILER"
+},
+  {
+"id": "5",
+"name": "Ian",
+"description": "best of them all",
+"subclass": "The World Leader"
 }
 ]
 }
