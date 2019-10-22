@@ -2,7 +2,7 @@ import { render } from './renderer.js';
 import * as data from './data.json';
 
 function getThingTemplate(thing){
-  return `<li>${thing.name} - ${thing.description} - ${thing.subclass}</li>`;
+  return `<li>${thing.name}</li>`;
 }
 function sorttheplayers(first, second) {
   if(first.subclass > second.subclass){
@@ -25,4 +25,4 @@ content += '</ul>';
 console.log(content);
 
   render(content);
-  console.log('this is a feature branch');
+  
